@@ -19,5 +19,15 @@ Tive também de criar uma nova coluna, correspondente à faixa etária dos funci
 Todas as medidas e a coluna foram criadas através de DAX, a linguagem de fórmulas disponibilizada pelo Power BI.
 
 Análise dos Dados:
-A força de trabalho da IBM é composta por 1470 funcionários, com uma concentração maioritariamente nas faixas dos 26 aos 45 anos. Observamos que existe certa predominancia do sexo masculino (60%) face ao sexo femenino (40%).
-O salário médio é de 6.503$ 
+A força de trabalho da IBM é composta por 1470 funcionários, com uma concentração maioritariamente nas faixas dos 26 aos 45 anos. 
+Observamos que existe certa predominancia do sexo masculino (60%) face ao sexo femenino (40%).
+O salário médio é de 6.503$, sendo que as funções com um maior número de funcionários são os Sales Executive e Research Scientist, 
+que históricamente são posições de alto valor agregado e remuneração competivia no setor tecnológico o que pode justificar o valor do salário médio.
+Um dos pontos críticos e alerta são a Experiência Média de 11 anos por mais que indique uma base de conhecimento e lealdade à empresa, 
+o Índice de Turnover de 16,12% é um ponto de atenção. Este valor, quando cruzado com o gráfico de Satisfação 
+revela um cenário preocupante que quse 40% dos funcionário reportam uma satisfação "Baixa" ou "Moderada".
+Vendo esta correlação é importante ver se esta insastifação está relacionada a cargos especificos ou 
+está relacionado ao Horas Extras (28,3%), que embora pareçam controladas podem estar a gerar um burnout em equipas críticas.
+
+Recomendações:
+É aconcelhavel a empresa analisar os possiveis problemas com a satisfação com as pessoas e tentar entender o possivel problema que possa existir.
