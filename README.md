@@ -15,6 +15,7 @@ Caso pretenda mexer no trabalho, poderá fazê-lo através do seguinte link: htt
 Cálculo das Medias e da Coluna:
 Neste trabalho tive de criar algumas medidas, nomeadamente o número total de funcionários, 
 os respetivos valores por sexo e a sua percentagem. Além disso, calculei o salário médio e o número de funcionários que fazem e que não fazem horas extra.
+
 Tive também de criar uma nova coluna, correspondente à faixa etária dos funcionários.
 Todas as medidas e a coluna foram criadas através de DAX, a linguagem de fórmulas disponibilizada pelo Power BI.
 
