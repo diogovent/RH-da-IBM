@@ -10,6 +10,8 @@ em que foram disponibilizados pela própria IBM.
 Dashboard:
 ![Dashboard Preview](https://github.com/diogovent/RH-da-IBM/blob/main/Dashboard.png)
 
+Caso querias mexer no trabalho podes fazer acedendo a este link: https://app.powerbi.com/groups/me/reports/865a4e19-1e2d-4d82-b965-7991eb501a15/76202f17b6daa6a0a0a8?experience=power-bi
+
 Cálculo das Medias e da Coluna:
 Neste trabalho tive de criar algumas medidas, nomeadamente o número total de funcionários, 
 os respetivos valores por sexo e a sua percentagem. Além disso, calculei o salário médio e o número de funcionários que fazem e que não fazem horas extra.
