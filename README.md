@@ -11,9 +11,10 @@ Dashboard:
 ![Dashboard Preview](https://github.com/diogovent/RH-da-IBM/blob/main/Dashboard.png)
 
 Cálculo das Medias e da Coluna:
-  Neste trabalho tive de criar algumas medidas que foram o nº total de funcionários como também os respétivos de cada sexo e a sua percentagem, além disso calculei o salário médio e os funcionários que fizeram e que não fizeram hora extra.
-  Tive de criar uma nova coluna que foi a Faixa Etária dos funcionários.
-  Todas as medidas e a coluna foram criadas a partir do DAX que o Power Bi disponibiliza.
+Neste trabalho tive de criar algumas medidas que foram o nº total de funcionários como também os respétivos de cada sexo e 
+a sua percentagem, além disso calculei o salário médio e os funcionários que fizeram e que não fizeram hora extra.
+Tive de criar uma nova coluna que foi a Faixa Etária dos funcionários.
+Todas as medidas e a coluna foram criadas a partir do DAX que o Power Bi disponibiliza.
 
 Análise dos Dados:
   Em relação aos dados podemos reparar que no momento que a IBM disponibilizou os dados eles tinham acerca de 1470 funcionários sendo que 60% eram do sexo masculino e os restantes 40% do sexo feminino.
