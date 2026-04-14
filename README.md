@@ -1,4 +1,50 @@
-# RH-da-IBM
+👥 Análise de RH — IBM HR Analytics
+
+Dashboard:
+![Dashboard Preview](https://github.com/diogovent/RH-da-IBM/blob/main/Dashboard.png)
+
+📌 Índice
+
+      Sobre o Projeto
+      Dataset
+      Tecnologias Utilizadas
+      Estrutura do Dashboard
+      Medidas DAX Criadas
+      Principais Insights
+      Recomendações
+      Como Aceder ao Dashboard
+
+📋 Sobre o Projeto
+O objetivo deste projeto foi aplicar técnicas de análise de dados sobre um dataset real de Recursos Humanos disponibilizado pela IBM, 
+de forma a extrair insights acionáveis sobre a força de trabalho da empresa.
+
+Este projeto cobre as seguintes áreas de análise:
+
+ - Distribuição demográfica dos colaboradores (idade, sexo, cargo)
+ - Índice de Turnover e fatores associados
+ - Satisfação no trabalho
+ - Impacto das horas extra no bem-estar dos colaboradores
+ - Salário médio por função
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Neste ficheiro irei analisar o meu dashboard dos RH da IBM.
