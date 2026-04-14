@@ -17,15 +17,15 @@
 
 # **📋 Sobre o Projeto**
 
-O objetivo deste projeto foi aplicar técnicas e conhecimentos de análise de dados sobre um dataset real 
-dos Recursos Humanos disponibilizado pela IBM, de forma a extrair insights.
+O objetivo deste projeto foi aplicar técnicas e conhecimentos de análise de dados sobre um conjunto de dados real 
+de Recursos Humanos disponibilizado pela IBM, de forma a extrair insights acionáveis sobre a sua força de trabalho.
 
-Este projeto atua as seguintes áreas de análise:
+Este projeto abrange as seguintes áreas de análise:
 
- - Distribuição demográfica dos funcionários (idade, sexo, cargo)
+ - Distribuição demográfica dos colaboradores (idade, sexo e cargo)
  - Índice de Turnover e fatores associados
  - Satisfação no trabalho
- - Impacto das horas extra no bem-estar dos funcionários
+ - Impacto das horas extra no bem-estar dos colaboradores
  - Salário médio por função
 
 
@@ -48,13 +48,14 @@ Nº de colunas: 35 variáveis
 
 # **📊 Estrutura do Dashboard**
 
- - O dashboard está organizado em torno dos seguintes blocos visuais:
-   - KPIs principais: Total de funcionários, salário médio, taxa de turnover
-   - Distribuição por sexo: Comparação entre género masculino e feminino
-   - Distribuição por faixa etária: Agrupamento em faixas criadas via DAX
-   - Distribuição por cargo: Top funções com maior número de funcionários
-   - Satisfação no trabalho: Percentagem por nível (Baixa, Moderada, Alta, Muito Alta)
-   - Horas extra: Colaboradores que fazem vs. não fazem horas extra
+| Bloco | Descrição |
+|---|---|
+| **KPIs Principais** | Total de colaboradores, salário médio e taxa de turnover |
+| **Distribuição por Sexo** | Comparação entre género masculino e feminino |
+| **Distribuição por Faixa Etária** | Agrupamento em faixas etárias criadas via DAX |
+| **Distribuição por Cargo** | Funções com maior número de colaboradores |
+| **Satisfação no Trabalho** | Percentagem por nível (Baixa, Moderada, Alta, Muito Alta) |
+| **Horas Extra** | Colaboradores que realizam vs. que não realizam horas extra |
 
 
 # **🧮 Medidas DAX Criadas e Coluna**
