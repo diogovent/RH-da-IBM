@@ -15,7 +15,7 @@
  - Como Aceder ao Dashboard
 
 
-**📋 Sobre o Projeto**
+# **📋 Sobre o Projeto**
 
 O objetivo deste projeto foi aplicar técnicas e conhecimentos de análise de dados sobre um dataset real 
 dos Recursos Humanos disponibilizado pela IBM, de forma a extrair insights.
@@ -29,7 +29,7 @@ Este projeto atua as seguintes áreas de análise:
  - Salário médio por função
 
 
-**🗂️ Dataset**
+# **🗂️ Dataset**
 
 Fonte: Kaggle — IBM HR Analytics Attrition Dataset (https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?resource=download&select=WA_Fn-UseC_-HR-Employee-Attrition.csv)
 
@@ -39,14 +39,14 @@ Nº de registos: 1.470 funcionários
 
 Nº de colunas: 35 variáveis
 
-**🛠️ Tecnologias Utilizadas**
+# **🛠️ Tecnologias Utilizadas**
 
  - Power BI Desktop — construção do dashboard e modelo de dados
  - DAX (Data Analysis Expressions) — criação de medidas e colunas calculadas
  - Power Query — transformação e limpeza dos dados
 
 
-**📊 Estrutura do Dashboard**
+# **📊 Estrutura do Dashboard**
 
  - O dashboard está organizado em torno dos seguintes blocos visuais:
    - KPIs principais: Total de funcionários, salário médio, taxa de turnover
@@ -57,7 +57,7 @@ Nº de colunas: 35 variáveis
    - Horas extra: Colaboradores que fazem vs. não fazem horas extra
 
 
-**🧮 Medidas DAX Criadas e Coluna**
+# **🧮 Medidas DAX Criadas e Coluna**
 
 Abaixo estão as principais medidas e colunas calculadas desenvolvidas neste projeto:
 
@@ -98,7 +98,7 @@ Coluna Calculada — Faixa Etária:
 )
 
 
-**📈 Principais Insights**
+# **📈 Principais Insights**
 
 👥 Força de Trabalho
 
@@ -125,7 +125,7 @@ Quase 40% dos funcionários reportam um nível de satisfação "Baixo" ou "Moder
 28,3% dos funcionários realiza horas extra, o que pode estar a contribuir para um estado de burnout em equipas críticas.
 
 
-**💡 Recomendações**
+# **💡 Recomendações**
 
 Com base na análise efetuada, recomenda-se à IBM:
 
@@ -140,7 +140,7 @@ Cruzar satisfação com cargo e antiguidade para identificar se existe um padrã
 Definir um plano de retenção focado nas faixas etárias 26-45 anos, onde se concentra a maioria da força de trabalho.
 
 
-**🔗 Como Aceder ao Dashboard**
+# **🔗 Como Aceder ao Dashboard**
 
 Podes interagir com o dashboard completo através do Power BI Service: https://app.powerbi.com/groups/me/reports/865a4e19-1e2d-4d82-b965-7991eb501a15/76202f17b6daa6a0a0a8?experience=power-bi
 
