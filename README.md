@@ -154,13 +154,13 @@ Quase **40% dos funcionários** reportam um nível de satisfação **"Baixo"** o
 
 Com base na análise efetuada, recomenda-se à IBM:
 
-1. **Realizar um inquérito interno aprofundado** para identificar as causas raiz da insatisfação, 
-com especial foco nos departamentos com maior taxa de turnover.
+1. **Realizar um inquérito interno aprofundado** para identificar as causas-raiz da insatisfação, 
+com especial enfoque nos departamentos com maior taxa de turnover.
 
-2. **Rever a política de horas extra** — os 28,3% de colaboradores a fazer overtime é um valor que, se não for monitorizado, pode acelerar o burnout e agravar o turnover.
+2. **Rever a política de horas extra** — os 28,3% dos funcionários a fazer overtime é um valor que, se não for monitorizado, pode acelerar o burnout e agravar o turnover.
 
  3. **Cruzar satisfação com cargo e antiguidade** para identificar se existe um padrão específico 
-(ex: colaboradores com 5-10 anos de experiência mais insatisfeitos — frequentemente o grupo mais valioso e difícil de substituir).
+(ex: funcionários com 5-10 anos de experiência mais insatisfeitos — frequentemente o grupo mais valioso e difícil de substituir).
 
 4. **Definir um plano de retenção** focado nas faixas etárias 26-45 anos, onde se concentra a maioria da força de trabalho.
 
