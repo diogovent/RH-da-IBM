@@ -17,6 +17,7 @@ Dashboard:
 
 📋 Sobre o Projeto
 
+
 O objetivo deste projeto foi aplicar técnicas e conhecimentos de análise de dados sobre um dataset real 
 dos Recursos Humanos disponibilizado pela IBM, de forma a extrair insights.
 
