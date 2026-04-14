@@ -64,30 +64,36 @@ Abaixo estão as principais medidas e colunas calculadas desenvolvidas neste pro
 Total de Funcionários:
 ```dax
    Total de Funcionários = COUNTROWS(Dados_RH)
-´´´
-
+````
+```dax
 Total por Sexo:
  - Total de Funcionários Masculinos = CALCULATE(COUNTROWS(Dados_RH), Dados_RH[Gender] = "Male")
  - Total de Funcionários Femeninos = CALCULATE(COUNTROWS(Dados_RH), Dados_RH[Gender] = "Female")
-
+````
+```dax
 Percentagem por Sexo:
  - % de Funcionários Masculinos = DIVIDE([Total de Funcionários Masculinos],[Total de Funcionários])
  - % de Funcionários Femeninos = DIVIDE([Total de Funcionários Femeninos],[Total de Funcionários])
-
+````
+```dax
 Anos Médios dentro da Empresa:
  - Experiência Média de Trabalho = AVERAGE(Dados_RH[TotalWorkingYears])
-
+````
+```dax
 Salário Médio:
  - Salário Médio = AVERAGE(Dados_RH[MonthlyIncome])
-
+````
+```dax
 Taxa de Turnover e %:
  - Total de Ex Funcionarios = CALCULATE(COUNTROWS(Dados_RH),Dados_RH[Attrition] = "Yes")
  - % de Ex Funcionários = DIVIDE([Total de Ex Funcionarios],[Total de Funcionários])
-
+````
+```dax
 Horas Extra:
  - Hora Extra Sim = CALCULATE(COUNTROWS(Dados_RH),Dados_RH[OverTime] = "Yes")
  - Hora Extra Não = CALCULATE(COUNTROWS(Dados_RH),Dados_RH[OverTime] = "No")
-
+````
+```dax
 Coluna Calculada — Faixa Etária:
  - Faixa Etaria = SWITCH(
     TRUE(),
@@ -98,7 +104,7 @@ Coluna Calculada — Faixa Etária:
     Dados_RH[Age] >= 46 && Dados_RH[Age] <= 55, "46-55",
     "56+"
 )
-
+````
 
 # **📈 Principais Insights**
 
