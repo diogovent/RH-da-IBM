@@ -2,7 +2,7 @@
 
 # Dashboard:
 ![Dashboard Preview](https://github.com/diogovent/RH-da-IBM/blob/main/Dashboard.png)
-
+---
 # **📌 Índice**
 
  - Sobre o Projeto
