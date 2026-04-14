@@ -1,9 +1,9 @@
-**👥 Análise de RH — IBM HR Analytics**
+# 👥 Análise de RH — IBM HR Analytics
 
-**Dashboard:**
+# Dashboard:
 ![Dashboard Preview](https://github.com/diogovent/RH-da-IBM/blob/main/Dashboard.png)
 
-# 📌 Índice
+# **📌 Índice**
 
  - Sobre o Projeto
  - Dataset
