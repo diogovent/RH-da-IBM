@@ -15,10 +15,7 @@ Dashboard:
  - Como Aceder ao Dashboard
 
 
-
-
 📋 Sobre o Projeto
-
 
 O objetivo deste projeto foi aplicar técnicas e conhecimentos de análise de dados sobre um dataset real 
 dos Recursos Humanos disponibilizado pela IBM, de forma a extrair insights.
@@ -37,7 +34,9 @@ Este projeto atua as seguintes áreas de análise:
 Fonte: Kaggle — IBM HR Analytics Attrition Dataset (https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?resource=download&select=WA_Fn-UseC_-HR-Employee-Attrition.csv)
 
 Disponibilizado por IBM
+
 Nº de registos: 1.470 funcionários
+
 Nº de colunas: 35 variáveis
 
 🛠️ Tecnologias Utilizadas
