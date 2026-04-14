@@ -65,36 +65,43 @@ Total de Funcionários:
 ```dax
    Total de Funcionários = COUNTROWS(Dados_RH)
 ````
-```dax
+
 Total por Sexo:
+```dax
  - Total de Funcionários Masculinos = CALCULATE(COUNTROWS(Dados_RH), Dados_RH[Gender] = "Male")
  - Total de Funcionários Femeninos = CALCULATE(COUNTROWS(Dados_RH), Dados_RH[Gender] = "Female")
 ````
-```dax
+
 Percentagem por Sexo:
+```dax
  - % de Funcionários Masculinos = DIVIDE([Total de Funcionários Masculinos],[Total de Funcionários])
  - % de Funcionários Femeninos = DIVIDE([Total de Funcionários Femeninos],[Total de Funcionários])
 ````
-```dax
+
 Anos Médios dentro da Empresa:
+```dax
  - Experiência Média de Trabalho = AVERAGE(Dados_RH[TotalWorkingYears])
 ````
-```dax
+
 Salário Médio:
+```dax
  - Salário Médio = AVERAGE(Dados_RH[MonthlyIncome])
 ````
-```dax
+
 Taxa de Turnover e %:
+```dax
  - Total de Ex Funcionarios = CALCULATE(COUNTROWS(Dados_RH),Dados_RH[Attrition] = "Yes")
  - % de Ex Funcionários = DIVIDE([Total de Ex Funcionarios],[Total de Funcionários])
 ````
-```dax
+
 Horas Extra:
+```dax
  - Hora Extra Sim = CALCULATE(COUNTROWS(Dados_RH),Dados_RH[OverTime] = "Yes")
  - Hora Extra Não = CALCULATE(COUNTROWS(Dados_RH),Dados_RH[OverTime] = "No")
 ````
-```dax
+
 Coluna Calculada — Faixa Etária:
+```dax
  - Faixa Etaria = SWITCH(
     TRUE(),
     Dados_RH[Age] <= 17, "0-17",
