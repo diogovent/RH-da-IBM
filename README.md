@@ -124,7 +124,7 @@ A faixa etária predominante situa-se entre os **26 e os 45 anos**, representand
 Existe uma predominância do género **masculino (≈60%)** face ao **feminino (≈40%)**.
 
 
-💰 Remuneração
+### 💰 Remuneração
 
 O salário médio mensal é de **$6.503**.
 
@@ -132,7 +132,7 @@ Os cargos com maior número de funcionários são **ales Executive** e **Researc
 ambos historicamente associados a remunerações mais elevadas no setor tecnologia.
 
 
-🚨 Pontos Críticos
+### 🚨 Pontos Críticos
 
 O Índice de Turnover é de 16,12% — um valor acima do que é considerado saudável para o setor tecnológico (tipicamente entre 10-13%).
 
@@ -140,6 +140,7 @@ Quase 40% dos funcionários reportam um nível de satisfação "Baixo" ou "Moder
 
 28,3% dos funcionários realiza horas extra, o que pode estar a contribuir para um estado de burnout em equipas críticas.
 
+---
 
 # **💡 Recomendações**
 
