@@ -62,7 +62,9 @@ Nº de colunas: 35 variáveis
 Abaixo estão as principais medidas e colunas calculadas desenvolvidas neste projeto:
 
 Total de Funcionários:
-`Total de Funcionários = COUNTROWS(Dados_RH)
+```dax
+   Total de Funcionários = COUNTROWS(Dados_RH)
+´´´
 
 Total por Sexo:
  - Total de Funcionários Masculinos = CALCULATE(COUNTROWS(Dados_RH), Dados_RH[Gender] = "Male")
