@@ -3,8 +3,6 @@
 # Dashboard:
 ![Dashboard Preview](https://github.com/diogovent/RH-da-IBM/blob/main/Dashboard.png)
 
----
-
 # **📌 Índice**
 
  - Sobre o Projeto
@@ -16,6 +14,7 @@
  - Recomendações
  - Como Aceder ao Dashboard
 
+---
 
 # **📋 Sobre o Projeto**
 
@@ -30,6 +29,7 @@ Este projeto abrange as seguintes áreas de análise:
  - Impacto das horas extra no bem-estar dos funcionários
  - Salário médio por função
 
+---
 
 # **🗂️ Dataset**
 
@@ -41,12 +41,15 @@ Nº de registos: 1.470 funcionários
 
 Nº de colunas: 35 variáveis
 
+---
+
 # **🛠️ Tecnologias Utilizadas**
 
  - Power BI Desktop — construção do dashboard e modelo de dados
  - DAX (Data Analysis Expressions) — criação de medidas e colunas calculadas
  - Power Query — transformação e limpeza dos dados
 
+---
 
 # **📊 Estrutura do Dashboard**
 
@@ -59,6 +62,7 @@ Nº de colunas: 35 variáveis
 | **Satisfação no Trabalho** | Percentagem por nível (Baixa, Moderada, Alta, Muito Alta) |
 | **Horas Extra** | Funcionários que realizam vs. que não realizam horas extra |
 
+---
 
 # **🧮 Medidas DAX Criadas e Coluna**
 
@@ -116,6 +120,8 @@ Coluna Calculada — Faixa Etária:
 )
 ````
 
+---
+
 # **📈 Principais Insights**
 
 ### 👥 Força de Trabalho
@@ -136,11 +142,11 @@ ambos historicamente associados a remunerações mais elevadas no setor tecnolog
 
 ### 🚨 Pontos Críticos
 
-O Índice de Turnover é de 16,12% — um valor acima do que é considerado saudável para o setor tecnológico (tipicamente entre 10-13%).
+O **Índice de Turnover é de 16,12%** — um valor acima do que é considerado saudável para o setor tecnológico (tipicamente entre 10-13%).
 
-Quase 40% dos funcionários reportam um nível de satisfação "Baixo" ou "Moderado", o que é um sinal de alerta considerável.
+Quase **40% dos funcionários** reportam um nível de satisfação **"Baixo"** ou **"Moderado"**, o que é um sinal de alerta considerável.
 
-28,3% dos funcionários realiza horas extra, o que pode estar a contribuir para um estado de burnout em equipas críticas.
+**28,3% dos funcionários** realiza horas extra, o que pode estar a contribuir para um estado de burnout em equipas críticas.
 
 ---
 
@@ -148,16 +154,17 @@ Quase 40% dos funcionários reportam um nível de satisfação "Baixo" ou "Moder
 
 Com base na análise efetuada, recomenda-se à IBM:
 
-Realizar um inquérito interno aprofundado para identificar as causas raiz da insatisfação, 
+1. **Realizar um inquérito interno aprofundado** para identificar as causas raiz da insatisfação, 
 com especial foco nos departamentos com maior taxa de turnover.
 
-Rever a política de horas extra — os 28,3% de colaboradores a fazer overtime é um valor que, se não for monitorizado, pode acelerar o burnout e agravar o turnover.
+2. **Rever a política de horas extra** — os 28,3% de colaboradores a fazer overtime é um valor que, se não for monitorizado, pode acelerar o burnout e agravar o turnover.
 
-Cruzar satisfação com cargo e antiguidade para identificar se existe um padrão específico 
+ 3. **Cruzar satisfação com cargo e antiguidade** para identificar se existe um padrão específico 
 (ex: colaboradores com 5-10 anos de experiência mais insatisfeitos — frequentemente o grupo mais valioso e difícil de substituir).
 
-Definir um plano de retenção focado nas faixas etárias 26-45 anos, onde se concentra a maioria da força de trabalho.
+4. **Definir um plano de retenção** focado nas faixas etárias 26-45 anos, onde se concentra a maioria da força de trabalho.
 
+---
 
 # **🔗 Como Aceder ao Dashboard**
 
