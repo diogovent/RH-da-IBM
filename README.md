@@ -35,6 +35,7 @@ Este projeto atua as seguintes áreas de análise:
 🗂️ Dataset
 
 Fonte: Kaggle — IBM HR Analytics Attrition Dataset (https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?resource=download&select=WA_Fn-UseC_-HR-Employee-Attrition.csv)
+
 Disponibilizado por IBM
 Nº de registos: 1.470 funcionários
 Nº de colunas: 35 variáveis
