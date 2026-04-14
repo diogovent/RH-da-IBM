@@ -22,10 +22,10 @@ de Recursos Humanos disponibilizado pela IBM, de forma a extrair insights acion�
 
 Este projeto abrange as seguintes áreas de análise:
 
- - Distribuição demográfica dos colaboradores (idade, sexo e cargo)
+ - Distribuição demográfica dos uncionários (idade, sexo e cargo)
  - Índice de Turnover e fatores associados
  - Satisfação no trabalho
- - Impacto das horas extra no bem-estar dos colaboradores
+ - Impacto das horas extra no bem-estar dos funcionários
  - Salário médio por função
 
 
@@ -50,12 +50,12 @@ Nº de colunas: 35 variáveis
 
 | Bloco | Descrição |
 |---|---|
-| **KPIs Principais** | Total de colaboradores, salário médio e taxa de turnover |
+| **KPIs Principais** | Total de Funcionários, salário médio e taxa de turnover |
 | **Distribuição por Sexo** | Comparação entre género masculino e feminino |
 | **Distribuição por Faixa Etária** | Agrupamento em faixas etárias criadas via DAX |
-| **Distribuição por Cargo** | Funções com maior número de colaboradores |
+| **Distribuição por Cargo** | Funções com maior número de funcionários |
 | **Satisfação no Trabalho** | Percentagem por nível (Baixa, Moderada, Alta, Muito Alta) |
-| **Horas Extra** | Colaboradores que realizam vs. que não realizam horas extra |
+| **Horas Extra** | Funcionários que realizam vs. que não realizam horas extra |
 
 
 # **🧮 Medidas DAX Criadas e Coluna**
@@ -116,19 +116,19 @@ Coluna Calculada — Faixa Etária:
 
 # **📈 Principais Insights**
 
-👥 Força de Trabalho
+### 👥 Força de Trabalho
 
-A IBM conta com 1.470 colaboradores ativos no dataset analisado.
+A IBM conta com **1.470 funcionários** ativos no dataset analisado.
 
-A faixa etária predominante situa-se entre os 26 e os 45 anos, representando o núcleo produtivo da empresa.
-Existe uma predominância do género masculino (≈60%) face ao feminino (≈40%).
+A faixa etária predominante situa-se entre os **26 e os 45 anos**, representando o núcleo produtivo da empresa.
+Existe uma predominância do género **masculino (≈60%)** face ao **feminino (≈40%)**.
 
 
 💰 Remuneração
 
-O salário médio mensal é de $6.503.
+O salário médio mensal é de **$6.503**.
 
-Os cargos com maior número de colaboradores são Sales Executive e Research Scientist, 
+Os cargos com maior número de funcionários são **ales Executive** e **Research Scientist**, 
 ambos historicamente associados a remunerações mais elevadas no setor tecnologia.
 
 
