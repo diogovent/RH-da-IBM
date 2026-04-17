@@ -1,7 +1,7 @@
 # 👥 Análise de RH — IBM HR Analytics
 
 # Dashboard:
-![Dashboard Preview](https://github.com/diogovent/RH-da-IBM/blob/main/Dashboard.png)
+![Dashboard Preview](https://github.com/diogovent/RH-da-IBM--PT/blob/main/Dashboard.png)
 
 # **📌 Índice**
 
@@ -76,13 +76,13 @@ Total de Funcionários:
 Total por Sexo:
 ```dax
  - Total de Funcionários Masculinos = CALCULATE(COUNTROWS(Dados_RH), Dados_RH[Gender] = "Male")
- - Total de Funcionários Femeninos = CALCULATE(COUNTROWS(Dados_RH), Dados_RH[Gender] = "Female")
+ - Total de Funcionários Femininos = CALCULATE(COUNTROWS(Dados_RH), Dados_RH[Gender] = "Female")
 ````
 
 Percentagem por Sexo:
 ```dax
  - % de Funcionários Masculinos = DIVIDE([Total de Funcionários Masculinos],[Total de Funcionários])
- - % de Funcionários Femeninos = DIVIDE([Total de Funcionários Femeninos],[Total de Funcionários])
+ - % de Funcionários Femininos = DIVIDE([Total de Funcionários Femininos],[Total de Funcionários])
 ````
 
 Anos Médios dentro da Empresa:
